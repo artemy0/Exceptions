@@ -1,0 +1,7 @@
+D:\IBA\Exceptions\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\IBA\Exceptions\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\IBA\Exceptions\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\IBA\Exceptions\Exceptions\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+D:\IBA\Exceptions\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\IBA\Exceptions\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\IBA\Exceptions\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
